@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi，我是 星井君ほしいくん 👋
+<!-- ⌨️ 打字机效果标语 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+%E6%88%91%E6%98%AF+%E6%98%9F%E4%BA%95%E5%90%9B%E3%81%BB%E3%81%97%E3%81%84%E3%81%8F%E3%82%93+%F0%9F%91%8B;Java+Spring+Boot+Backend+Engineer;Learning+C%2B%2B20+%F0%9F%9A%80;Using+GLM-5.3+%2B+Cline+for+AI+Pair+Programming)](https://git.io/typing-svg)
 
 **Java 后端工程师 · Spring Boot · 1 年经验**
 
-☕ 用 Java 写业务 · 🔧 用 C++20 磨功力 · 🤖 用 GLM-5.3 + Cline 结对编程
+![Profile Views](https://komarev.com/ghpvc/?username=Hoshiikunn&color=7AA2F7&style=for-the-badge&label=%E8%AE%BF%E9%97%AE%E9%87%8F)
 
 🔗 [hoshiikunn.cn](https://hoshiikunn.cn)
 
@@ -26,7 +27,14 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apacherocketmq&logoColor=white)
 
-### 开发工具
+### 💻 开发环境
+
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu_24.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![宝塔面板](https://img.shields.io/badge/宝塔面板-Linux_Control_Panel-20A53A?style=for-the-badge&logo=linux&logoColor=white)
+
+### 🧰 开发工具
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio 2026](https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -50,8 +58,9 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoshiikunn&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshiikunn&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoshiikunn&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshiikunn&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Hoshiikunn&theme=tokyonight&locale=zh_CN" height="165"/>
 </div>
 
 ---
