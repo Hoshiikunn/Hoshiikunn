@@ -5,8 +5,6 @@
 
 **Java 后端工程师 · Spring Boot · 1 年经验**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hoshiikunn&color=7AA2F7&style=for-the-badge&label=%E8%AE%BF%E9%97%AE%E9%87%8F)
-
 🔗 [hoshiikunn.cn](https://hoshiikunn.cn)
 
 </div>
