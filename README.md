@@ -3,7 +3,8 @@
 <!-- ⌨️ 打字机效果标语 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+%E6%88%91%E6%98%AF+%E6%98%9F%E4%BA%95%E5%90%9B%E3%81%BB%E3%81%97%E3%81%84%E3%81%8F%E3%82%93+%F0%9F%91%8B;Java+Spring+Boot+Backend+Engineer;Learning+C%2B%2B20+%F0%9F%9A%80;Using+GLM-5.3+%2B+Cline+for+AI+Pair+Programming)](https://git.io/typing-svg)
 
-**Java 后端工程师 · Spring Boot · 1 年经验**
+**Java 后端工程师 · Spring Boot · 1 年经验** <br>
+**C++ · 初学者 · 2026 年 10 月起**
 
 🔗 [hoshiikunn.cn](https://hoshiikunn.cn)
 
