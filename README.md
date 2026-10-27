@@ -40,11 +40,12 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🤖 AI 工作流
-
 ![GLM-5.3](https://img.shields.io/badge/GLM--5.3-Z.AI-38B6E0?style=for-the-badge)
 ![Cline](https://img.shields.io/badge/Cline-AI_Coding_Agent-4F46E5?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-OpenAI_Coding_Agent-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-> 日常用 GLM-5.3 + Cline（VS Code）做 AI 结对编程：代码生成、重构、Code Review、技术调研。
+> 日常用 GLM-5.3 + Cline (IDEA / VS Code) / Codex 做 AI 结对编程：问代码怎么写、查类与 API 的用法、做方案规划与技术调研；前端页面喜欢直接让 AI 生成。
+
 
 ---
 
